@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4r3al
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning hacking
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
